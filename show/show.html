@@ -1,0 +1,12 @@
+<article class="show">
+  <figure class="{{show.figure.class}}">
+    <img ng-src="{{show.image}}" alt="{{show.title}}">
+  </figure>
+  <header ng-switch="location">
+    <h1 ng-switch-when="detail">{{show.title}}</h1>
+    <h2 ng-switch-default="detail"><a ng-href="./#/shows/{{show.id}}">{{show.title}}</a></h2>
+  </header>
+  <section class="desc" ng-if="location==='detail'">
+    {{show.desc}}
+  </section>
+</article>

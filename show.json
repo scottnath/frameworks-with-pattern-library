@@ -1,0 +1,39 @@
+{"shows":[
+  {
+    "id": 1,
+    "title": "30 Rock",
+    "desc": "Multiple award-winning comedy \"30 Rock\" is told through the comedic voice of Emmy and two-time Golden Globe winner Tina Fey as variety show producer Liz Lemon. The series also features two-time Emmy and three-time Golden Globe winner Alec Baldwin as top network executive Jack Donaghy and Emmy nominee Tracy Morgan as Tracy Jordan, the unpredictable star of Lemon's hit variety show, \"TGS with Tracy Jordan.\" Lemon constantly has her hands full, juggling corporate interference from Donaghy and off-the-handle star antics from Jordan, all while attempting to salvage her own personal life.",
+    "image": "http://www.nbc.com/sites/nbcunbc/files/files/images/2013/12/10/2013_1022_30rock_Show_KeyArt_1920x1080_GY.jpg"
+  },
+  {
+    "id": 2,
+    "title": "America Ninja Warrior",
+    "desc": "The action-packed series follows competitors as they tackle a series of challenging obstacle courses in both city qualifying and city finals rounds across the country. Those who successfully complete the finals course in their designated region move on to the national finals round in Las Vegas, where they face a stunning four-stage course modeled after the famed Mt. Midoriyama course in Japan. The winner will take home a grand prize of $1,000,000. Although many have come close, no competitor has yet to achieve total victory and claim the prize.",
+    "image": "http://www.nbc.com/sites/nbcunbc/files/files/images/2015/5/06/2015_0506_ANW_Show_KeyArt_1920x1080_AC_2.jpg"
+  },
+  {
+    "id": 3,
+    "title": "Hannibal",
+    "desc": "The dark and haunting series \"Hannibal\" returns for a third season, revealing the fates of characters hanging in the balance, and the continuing psychological cat-and-mouse games they face.",
+    "image": "http://www.nbc.com/sites/nbcunbc/files/files/images/2015/5/04/NBC-Hannibal_Show_Alternate_1920x1080_AC.png"
+  },
+  {
+    "id": 4,
+    "title": "Saturday Night Live",
+    "desc": "Since its inception in 1975, \"SNL\" has launched the careers of many of the brightest comedy performers of their generation. As The New York Times noted on the occasion of the show's Emmy-winning 25th Anniversary special in 1999, \"in defiance of both time and show business convention, 'SNL' is still the most pervasive influence on the art of comedy in contemporary culture.\" At the close of the century, \"Saturday Night Live\" placed seventh on Entertainment Weekly's list of the Top 100 Entertainers of the past fifty years.",
+    "image": "http://www.nbc.com/sites/nbcunbc/files/files/images/2014/10/24/2014_1023_SNL-About-1920x1080.png"
+  },
+  {
+    "id": 5,
+    "title": "The Office",
+    "desc": "From Deedle-Dee Productions, Reveille and Universal Television, the multi-award-winning comedy series \"The Office\" presents a hilarious documentary-style look at the humorous, and sometimes poignant, foolishness that plagues the 9-to-5 world. Based on the award-winning BBC hit, \"The Office\" is a fly-on-the-wall \"docu-reality\" parody of modern American office life that delves into the lives of the workers at Dunder Mifflin, a paper supply company in Scranton, Pennsylvania.",
+    "image": "http://www.nbc.com/sites/nbcunbc/files/files/images/2014/1/29/2013_1119_TheOffice_Show_1920x1080_AC.jpg"
+  },
+  {
+    "id": 6,
+    "title": "The Tonight Show with Jimmy Fallon",
+    "desc": "Emmy Award and Grammy Award winner Jimmy Fallon brought NBC's \"The Tonight Show\" back to its New York origins when he launched \"The Tonight Show Starring Jimmy Fallon\" from Rockefeller Center. Fallon puts his own stamp on the storied NBC late-night franchise with his unique comedic wit, on-point pop culture awareness, welcoming style and impeccable taste in music with the award-winning house band, The Roots.",
+    "image": "http://www.nbc.com/sites/nbcunbc/files/files/images/2014/2/10/2014_0210_TSJF_ShowSecondary_1920x1080_FL.jpg"
+  }
+]
+}

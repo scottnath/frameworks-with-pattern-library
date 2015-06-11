@@ -1,0 +1,62 @@
+//@import 'compass/reset';
+@import 'compass/css3';
+@import 'breakpoint';
+@import 'singularitygs';
+
+
+// cssGlobbingBegin
+@import '../main/main';
+@import '../show/show';
+
+// cssGlobbingEnd
+
+body {
+  height: auto;
+}
+
+nav ul {
+  list-style: none;
+  background-color: #444;
+  text-align: left;
+  padding: 0 0 0 .3em;
+  margin: 0;
+}
+nav li {
+  font-family: 'Oswald', sans-serif;
+  font-size: 1.2em;
+  line-height: 40px;
+  height: 40px;
+  border-bottom: 1px solid #888;
+}
+
+nav a {
+  text-decoration: none;
+  color: #fff;
+  display: block;
+  transition: .3s background-color;
+}
+
+nav a:hover {
+  background-color: #005f5f;
+}
+
+nav a.active {
+  background-color: #fff;
+  color: #444;
+  cursor: default;
+}
+@media screen and (min-width: 600px) {
+  nav li {
+    border-bottom: none;
+    height: 50px;
+    line-height: 50px;
+    font-size: 1.4em;
+    padding: 0 1em;
+  }
+
+  /* Option 1 - Display Inline */
+  nav li {
+    display: inline-block;
+    margin-right: -4px;
+  }
+}
